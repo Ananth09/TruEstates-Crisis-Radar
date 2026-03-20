@@ -1,6 +1,6 @@
 ﻿# Web Framework
 streamlit==1.52.2
-
+joblib
 # AI & LLMs
 pydantic==2.12.5
 ollama==0.6.1
