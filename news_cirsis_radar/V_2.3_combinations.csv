@@ -1,0 +1,42 @@
+area_name_en,procedure_area,reg_type_en,rooms_en,land_type_en,floor_bin,project_cat,developer_cat,has_parking,swimming_pool,balcony,elevator,metro
+Al Barsha South Fifth,33,Off-Plan Properties,1 B/R,Commercial,1-10,small/other_projects,small/other_developer,1,1,1,1,1
+Al Barshaa South Second,33.59,Off-Plan Properties,1 B/R,Commercial,21-30,small/other_projects,B,1,1,1,1,1
+Al Yelayiss 2,54,Off-Plan Properties,2 B/R,Commercial,1-10,Tier 3,B,1,1,1,1,1
+Jabal Ali,56,Off-Plan Properties,3 B/R,Missing_land_type_en,11-20,small/other_projects,small/other_developer,1,0,1,1,1
+Warsan Fourth,56,Off-Plan Properties,3 B/R,Missing_land_type_en,11-20,small/other_projects,small/other_developer,1,0,1,1,1
+Al Hebiah First,62.74,Off-Plan Properties,1 B/R,Commercial,11-20,Tier 2,A,1,1,1,1,1
+Al Warsan First,62.84,Off-Plan Properties,1 B/R,Commercial,1-10,Tier 3,B,1,1,0,0,0
+Me'Aisem First,63.79,Off-Plan Properties,3 B/R,Commercial,11-20,Tier 3,A,1,0,1,1,1
+Al Merkadh,66.88,Off-Plan Properties,1 B/R,Residential,1-10,Tier 2,A,1,1,1,0,1
+Al Barshaa South Third,67.36,Off-Plan Properties,3 B/R,Commercial,1-10,Tier 3,small/other_developer,1,0,0,1,0
+Wadi Al Safa 3,69.74,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 3,D,1,0,0,1,1
+Al Hebiah Fourth,72.03,Off-Plan Properties,1 B/R,Commercial,11-20,Tier 2,B,1,1,1,1,1
+Wadi Al Safa 5,72.14,Off-Plan Properties,3 B/R,Commercial,1-10,small/other_projects,small/other_developer,1,1,1,1,1
+Madinat Al Mataar,72.94,Off-Plan Properties,1 B/R,Government Authorities,1-10,Tier 3,A,1,1,1,1,0
+Nadd Hessa,72.97,Off-Plan Properties,3 B/R,Residential,31-40,small/other_projects,small/other_developer,1,0,1,1,1
+Al Thanyah Third,75.47,Off-Plan Properties,3 B/R,Commercial,1-10,Tier 3,small/other_developer,1,0,0,0,1
+Jabal Ali Industrial Second,75.47,Off-Plan Properties,3 B/R,Commercial,1-10,Tier 3,small/other_developer,1,0,0,0,1
+Madinat Dubai Almelaheyah,75.65,Off-Plan Properties,Studio,Industrial,41-50,Tier 1,D,0,1,0,1,0
+Business Bay,86,Existing Properties,3 B/R,Commercial,21-30,Tier 1,A,1,1,0,1,1
+Jabal Ali First,87.67,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,A,1,0,1,1,1
+Al Thanyah Fifth,87.93,Off-Plan Properties,1 B/R,Commercial,1-10,Tier 3,small/other_developer,1,1,1,1,0
+Al Khairan First,101.57,Off-Plan Properties,1 B/R,Industrial,1-10,Tier 3,A,1,1,1,1,0
+Al Kifaf,107.77,Off-Plan Properties,1 B/R,Commercial,1-10,Tier 3,A,1,1,1,1,1
+Wadi Al Safa 4,107.77,Off-Plan Properties,1 B/R,Commercial,1-10,Tier 3,A,1,1,1,1,1
+Zaabeel First,108.52,Off-Plan Properties,3 B/R,Residential,1-10,Tier 2,A,1,1,1,1,1
+Zaabeel Second,108.52,Off-Plan Properties,3 B/R,Residential,1-10,Tier 2,A,1,1,1,1,1
+Marsa Dubai,112.43,Existing Properties,1 B/R,Commercial,1-10,Tier 1,A,1,1,1,1,0
+Burj Khalifa,121, Off-Plan Properties,1 B/R,Commercial,1-10,Tier 2,B,1,1,1,1,1
+Al Barsha First,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Al Hebiah Second,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Al Hebiah Sixth,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Al Hebiah Third,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Madinat Hind 4,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Wadi Al Safa 7,122,Off-Plan Properties,3 B/R,Commercial,31-40,Tier 2,B,1,1,1,1,1
+Al Barsha South Fourth,133.94,Off-Plan Properties,3 B/R,Commercial,31-40,small/other_projects,C,1,1,1,1,1
+Hadaeq Sheikh Mohammed Bin Rashid,137, Off-Plan Properties,3 B/R,Commercial,21-30,Tier 3,small/other_developer,1,0,1,1,1
+Bukadra,156,Off-Plan Properties,3 B/R,Industrial,Below 1st/Ground/Podium,Tier 3,small/other_developer,1,1,1,0,1
+Jumeirah First,156,Off-Plan Properties,3 B/R,Industrial,Below 1st/Ground/Podium,Tier 3,small/other_developer,1,1,1,0,1
+Palm Deira,156,Off-Plan Properties,3 B/R,Industrial,Below 1st/Ground/Podium,Tier 3,small/other_developer,1,1,1,0,1
+Ras Al Khor Industrial First,156,Off-Plan Properties,3 B/R,Industrial,Below 1st/Ground/Podium,Tier 3,small/other_developer,1,1,1,0,1
+Palm Jumeirah,162.18,Existing Properties,3 B/R,Commercial,21-30,Tier 1,A,1,1,1,1,1
