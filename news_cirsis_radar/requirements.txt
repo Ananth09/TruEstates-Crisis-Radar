@@ -24,5 +24,3 @@ python-dateutil
 streamlit-folium==0.26.2
 yfinance
 statsmodels
-pathlib
-ast
